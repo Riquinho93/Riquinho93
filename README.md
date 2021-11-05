@@ -1,4 +1,4 @@
-## welcome! I'm Henrique
+## Welcome! I'm Henrique.
 
 I'm self-taught passionate about technology and machine learning.
 ### About me
