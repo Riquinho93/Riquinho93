@@ -2,9 +2,9 @@
 
 I'm self-taught passionate about technology and machine learning.
 ### About me
-- 💻 I'm master's degree in computer science
-- 💻 I’m currently learning machine learning, deep learning and data science
+- 💻 I'm master's degree in Information System
+- 💻 I’m currently learning Machine Learning, Deep Learning and Data Science
 - 💻 I'm looking to collaborate on data science projects or develop projects with programming
-- 🤔I'm looking for help to the world through technology and artificial intelligence
+- 🤔I'm looking for help to the world through technology and Artificial Intelligence
 - 💬 Ask me about anything
 
