@@ -6,6 +6,6 @@ I'm self-taught passionate about technology and machine learning.
 - 💻 I’m currently learning Machine Learning, Deep Learning and Data Science
 - 💻 I'm looking to collaborate on data science projects or develop projects with programming
 - 🤓 I'm currently learning from Coursera, freecodecamp and Kaggle.
-- 🤔I'm looking for help to the world through technology with Artificial Intelligence
+- 🤔 I seek to help the world through technology and Artificial Intelligence
 - 💬 Ask me about anything
 
