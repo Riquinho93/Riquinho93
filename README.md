@@ -5,7 +5,7 @@
 ### What I can offer:
 - ✅ Efficient ETL pipelines using Python, Airflow, Docker and SQL 
 - ✅ Process automation to optimize repetitive tasks 
-- ✅ Data analysis and visualization with Pandas, SQL, ELK, Power BI, and Tableau 
+- ✅ Data analysis and visualization with Pandas, SQL, ELK Stack, Power BI, and Tableau 
 - ✅ Machine Learning models for predictions and insights 
 - ✅ Database optimization (Oracle, PostgreSQL, MySQL)
 
