@@ -3,11 +3,11 @@
 💡 I am a Data Engineer and Data Scientist with experience in ETL, process automation, SQL/NoSQL databases, and machine learning. I have worked on projects involving data integration, creating efficient pipelines, and monitoring with the ELK Stack.
 
 ### What I can offer:
-✅ Efficient ETL pipelines using Python, Airflow, Docker and SQL 
-✅ Process automation to optimize repetitive tasks 
-✅ Data analysis and visualization with Pandas, SQL, ELK, Power BI, and Tableau 
-✅ Machine Learning models for predictions and insights 
-✅ Database optimization (Oracle, PostgreSQL, MySQL)
+- ✅ Efficient ETL pipelines using Python, Airflow, Docker and SQL 
+- ✅ Process automation to optimize repetitive tasks 
+- ✅ Data analysis and visualization with Pandas, SQL, ELK, Power BI, and Tableau 
+- ✅ Machine Learning models for predictions and insights 
+- ✅ Database optimization (Oracle, PostgreSQL, MySQL)
 
 ### About me
 - 💻 I'm master's degree in Information System
